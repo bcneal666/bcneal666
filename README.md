@@ -9,7 +9,9 @@ And Passionate about Blockchain Technology.
 ## ⚡About Me
 
 - 🌱 I’m currently learning **Node.js,Redux, Blockchain Development.**
+
 - 💬 Ask me about **React, Ethers.js, Solidity**
+
 - 📫 How to reach me [**Linktree**](https://linktr.ee/evileye0666)
 
 ## 📊 Stats
