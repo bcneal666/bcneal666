@@ -16,8 +16,8 @@ And Passionate about Blockchain Technology.
 
 # 📊 Stats
 
-[![trophy](https://github-readme-stats.vercel.app/api?username=evileye0666&theme=blue-green)](https://github.com/evileye0666/github-profile-trophy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evileye0666&count_private=true&show_icons=true&theme=tokyonight)
+[![trophy](https://github-readme-stats.vercel.app/api?username=evileye0666&theme=blue-green)](https://github.com/evileye0666/github-profile-trophy)
 
 # 👨‍💻 Connect with me
 
