@@ -1,6 +1,6 @@
-![betterCallNealB](https://github-production-user-asset-6210df.s3.amazonaws.com/6915577/244955440-06f23cee-363e-420e-90e6-be7a85401514.jpg)
+[![betterCallNealB](https://github-production-user-asset-6210df.s3.amazonaws.com/6915577/244955440-06f23cee-363e-420e-90e6-be7a85401514.jpg)](https://linktr.ee/0xChix0k)
 
-# ⚡About Me
+## ⚡About Me
 
 - 😈 **Web3** & Frontend enginner.
 
@@ -10,12 +10,16 @@
 
 - 📫 How to reach me [**Linktree**](https://linktr.ee/0xChix0k)
 
-# 👨‍💻 Contact
+<br>
+
+## 👨‍💻 Contact
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xChix0k)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/0xChix0k)
 
-# 🖥 Language
+<br>
+
+## 🖥 Language
 
 <div>
 <a href="https://reactjs.org/" target="_blank">
@@ -39,7 +43,7 @@
 </div>
 <br>
 
-# 📄 Tools
+## 📄 Tools
 
 <div>
 <a href="https://code.visualstudio.com/" target="_blank">
@@ -57,12 +61,12 @@
 </div>
 <br>
 
-# 📊 Stats
+## 📊 Stats
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=0xChix0k&theme=dark&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xChix0k&layout=compact&bg_color=000000&text_color=ffffff)](https://github.com/0xChix0k/github-readme-stats)
-[![trophy](https://github-readme-stats.vercel.app/api?username=0xChix0k&theme=blue-green)](https://github.com/0xChix0k/github-profile-trophy)
+<!-- [![trophy](https://github-readme-stats.vercel.app/api?username=0xChix0k&theme=blue-green)](https://github.com/0xChix0k/github-profile-trophy) -->
 
 <!--
 **0xChix0k/0xChix0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
