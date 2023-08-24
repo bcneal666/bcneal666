@@ -1,6 +1,6 @@
 <!-- [![betterCallNealB](https://github-production-user-asset-6210df.s3.amazonaws.com/6915577/244955440-06f23cee-363e-420e-90e6-be7a85401514.jpg)](https://linktr.ee/0xChix0k) -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&duration=2000&pause=2000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=830&height=60&lines=Better+call+Neal)](https://linktr.ee/0xChix0k)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&duration=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=830&height=60&lines=Better+call+Neal)](https://linktr.ee/0xChix0k)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1000&pause=10&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=830&height=100&lines=NFT%2FCrypto+holder;Website+development;Web3+solution)](https://linktr.ee/0xChix0k)
 
