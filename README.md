@@ -8,20 +8,19 @@
 
 - 😈 **Web3** & Frontend enginner.
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js** / **MongoDB**
 
-- 💬 Ask me about **React,Solidity,Vue**
+- 💬 Ask me about **React,Solidity**
 
-- 📫 How to reach me [**Linktree**](https://linktr.ee/0xChix0k)
+<!-- - 📫 How to reach me [**Linktree**](https://linktr.ee/0xChix0k) -->
 
-<br>
 
-## 👨‍💻 Contact
+<!-- ## 👨‍💻 Contact
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xChix0k)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/0xChix0k)
 
-<br>
+<br> -->
 
 ## 🖥 Language
 
