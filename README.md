@@ -68,7 +68,7 @@
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=0xChix0k&theme=dark&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xChix0k&layout=compact&bg_color=000000&text_color=ffffff)](https://github.com/bcneal666/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bcneal666&layout=compact&bg_color=000000&text_color=ffffff)](https://github.com/bcneal666/github-readme-stats)
 <!-- [![trophy](https://github-readme-stats.vercel.app/api?username=0xChix0k&theme=blue-green)](https://github.com/0xChix0k/github-profile-trophy) -->
 
 <!--
