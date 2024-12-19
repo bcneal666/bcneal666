@@ -8,9 +8,9 @@
 
 - 😈 **Web3** & Frontend enginner.
 
-- 🌱 I’m currently learning **Next.js** / **MongoDB**
+- 🌱 I’m currently learning **Cloudflare** / **Vercel**
 
-- 💬 Ask me about **React,Solidity**
+- 💬 Ask me about **React,Solidity,Next.js**
 
 <!-- - 📫 How to reach me [**Linktree**](https://linktr.ee/0xChix0k) -->
 
@@ -23,45 +23,12 @@
 <br> -->
 
 ## 🖥 Language
-
-<div>
-<a href="https://reactjs.org/" target="_blank">
-<img height="32" width="32" src="https://cdn.simpleicons.org/react" /></a>
-<a href="https://vuejs.org/" target="_blank">
-<img height="32" width="32" src="https://cdn.simpleicons.org/Vue.js" /></a>
-<a href="https://nodejs.org/en" target="_blank">
-<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" /><a/>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img height="32" width="32" src="https://cdn.simpleicons.org/Javascript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img height="32" width="32" src="https://cdn.simpleicons.org/typescript" /><a/>
-<a href="https://www.w3.org/html/" target="_blank">
-<img height="32" width="32" src="https://cdn.simpleicons.org/HTML5" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img height="32" width="32" src="https://cdn.simpleicons.org/CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank">
-<img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" /></a>
-<a href="https://docs.soliditylang.org/en/latest/" target="_blank">
-<img height="32" width="32" src="https://cdn.simpleicons.org/Solidity" /><a/>
-</div>
+<img src="https://skillicons.dev/icons?i=nextjs,react,mongodb,nginx,express,solidity" />
 <br>
 
 ## 📄 Tools
 
-<div>
-<a href="https://code.visualstudio.com/" target="_blank">
-<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" /><a/>
-<a href="https://git-scm.com/" target="_blank">
-<img height="32" width="32" src="https://cdn.simpleicons.org/git" /><a/>
-<a href="https://chat.openai.com/" target="_blank">
-<img height="32" width="32" src="https://cdn.simpleicons.org/openai" /><a/>
-<a href="https://www.adobe.com/" target="_blank">
-<img height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop" /><a/>
-<a href="https://mui.com/" target="_blank">
-<img height="32" width="32" src="https://cdn.simpleicons.org/mui" /><a/>
-<a href="https://ant.design/" target="_blank">
-<img height="32" width="32" src="https://cdn.simpleicons.org/antdesign" /><a/>
-</div>
+<img src="https://skillicons.dev/icons?i=vscode,git,gitlab,ipfs,ps,powershell,vim,vercel" />
 <br>
 
 ## 📊 Stats
