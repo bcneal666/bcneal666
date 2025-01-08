@@ -23,12 +23,12 @@
 <br> -->
 
 ## 🖥 Language
-<img src="https://skillicons.dev/icons?i=nextjs,react,mongodb,nginx,express,solidity" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,mongodb,nginx,express,solidity" />
 <br>
 
 ## 📄 Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,git,gitlab,ipfs,ps,powershell,vim,vercel" />
+<img src="https://skillicons.dev/icons?i=vscode,git,gitlab,ipfs,ps,vim,vercel,cloudflare" />
 <br>
 
 ## 📊 Stats
