@@ -1,54 +1,40 @@
-<!-- [![betterCallNealB](https://github-production-user-asset-6210df.s3.amazonaws.com/6915577/244955440-06f23cee-363e-420e-90e6-be7a85401514.jpg)](https://linktr.ee/0xChix0k) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&duration=1000&pause=1000&color=00ff00&center=true&vCenter=true&multiline=true&repeat=false&width=830&height=60&lines=Better+call+Neal)](https://linktr.ee/0xChix0k)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&duration=1000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=830&height=60&lines=Better+call+Neal)](https://linktr.ee/0xChix0k)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1000&pause=10&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=830&height=100&lines=NFT%2FCrypto+holder;Website+development;Web3+solution)](https://linktr.ee/0xChix0k)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1000&pause=10&color=00ff00&center=true&vCenter=true&multiline=true&repeat=false&width=830&height=100&lines=AI%2FWeb3+Engineer;Full-stack+Development;Building+AI+Agents)](https://linktr.ee/0xChix0k)
 
 ## ⚡About Me
 
-- 😈 **Web3** & Frontend enginner.
+- 🤖 **AI × Web3 Full-stack Engineer**
 
-- 🌱 I’m currently learning **Cloudflare** / **Vercel**
+- 🌱 I’m currently exploring **AI Agents** / **LLM apps** / **MCP**
 
-- 💬 Ask me about **React,Solidity,Next.js**
+- 💬 Ask me about **Next.js,React,Solidity,LLM integration**
 
-<!-- - 📫 How to reach me [**Linktree**](https://linktr.ee/0xChix0k) -->
+## 🖥 Languages
 
-
-<!-- ## 👨‍💻 Contact
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xChix0k)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/0xChix0k)
-
-<br> -->
-
-## 🖥 Language
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,mongodb,nginx,express,solidity" />
+<img src="https://skillicons.dev/icons?i=ts,js,solidity,py,c#" />
 <br>
 
-## 📄 Tools
+## 🎨 Full-Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,git,gitlab,ipfs,ps,vim,vercel,cloudflare" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,nginx" />
+<br>
+
+## 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+<br>
+
+## ☁️ Deployment
+
+<img src="https://skillicons.dev/icons?i=vercel,cloudflare,ipfs" />
+<br>
+
+## 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,neovim,vim,github,gitlab" />
 <br>
 
 ## 📊 Stats
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=0xChix0k&theme=dark&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bcneal666&layout=compact&bg_color=000000&text_color=ffffff)](https://github.com/bcneal666/github-readme-stats)
-<!-- [![trophy](https://github-readme-stats.vercel.app/api?username=0xChix0k&theme=blue-green)](https://github.com/0xChix0k/github-profile-trophy) -->
-
-<!--
-**0xChix0k/0xChix0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bcneal666&theme=chartreuse_dark)](https://github.com/bcneal666)
