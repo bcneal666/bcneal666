@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Next.js,React,Solidity,LLM integration**
 
-## 🖥 Languages
+![Languages](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=1&pause=99999999&color=00ff00&center=false&vCenter=true&repeat=false&width=500&height=40&lines=Languages)
 
 <img src="https://skillicons.dev/icons?i=ts,js,solidity,py,cs" />
 <br>
