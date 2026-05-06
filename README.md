@@ -12,7 +12,7 @@
 
 ## 🖥 Languages
 
-<img src="https://skillicons.dev/icons?i=ts,js,solidity,py,c#" />
+<img src="https://skillicons.dev/icons?i=ts,js,solidity,py,cs" />
 <br>
 
 ## 🎨 Full-Stack
