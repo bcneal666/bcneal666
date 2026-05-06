@@ -13,27 +13,22 @@
 ## 🖥 Languages
 
 <img src="https://skillicons.dev/icons?i=ts,js,solidity,py,c#" />
-<br>
 
 ## 🎨 Full-Stack
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,nginx" />
-<br>
 
 ## 🗄️ Database
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-<br>
 
 ## ☁️ Deployment
 
 <img src="https://skillicons.dev/icons?i=vercel,cloudflare,ipfs" />
-<br>
 
 ## 🛠️ Tools
 
 <img src="https://skillicons.dev/icons?i=vscode,neovim,vim,github,gitlab" />
-<br>
 
 ## 📊 Stats
 
