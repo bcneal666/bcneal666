@@ -10,31 +10,31 @@
 
 - 💬 Ask me about **Next.js,React,Solidity,LLM integration**
 
-![Languages](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=1&pause=99999999&color=00ff00&center=false&vCenter=true&repeat=false&width=500&height=40&lines=Languages)
+![Languages](https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&section=header&text=🤖%20Languages&fontColor=00ff00&fontSize=26&fontAlign=8&fontAlignY=55)
 
 <img src="https://skillicons.dev/icons?i=ts,js,solidity,py,cs" />
 <br>
 
-## 🎨 Full-Stack
+![Full-Stack](https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&section=header&text=🎨%20Full-Stack&fontColor=00ff00&fontSize=26&fontAlign=8&fontAlignY=55)
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,nginx" />
 <br>
 
-## 🗄️ Database
+![Database](https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&section=header&text=🗄️%20Database&fontColor=00ff00&fontSize=26&fontAlign=8&fontAlignY=55)
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 <br>
 
-## ☁️ Deployment
+![Deployment](https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&section=header&text=☁️%20Deployment&fontColor=00ff00&fontSize=26&fontAlign=8&fontAlignY=55)
 
 <img src="https://skillicons.dev/icons?i=vercel,cloudflare,ipfs" />
 <br>
 
-## 🛠️ Tools
+![Tools](https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&section=header&text=🛠️%20Tools&fontColor=00ff00&fontSize=26&fontAlign=8&fontAlignY=55)
 
 <img src="https://skillicons.dev/icons?i=vscode,neovim,vim,github,gitlab" />
 <br>
 
-## 📊 Stats
+![Stats](https://capsule-render.vercel.app/api?type=rect&color=00000000&height=40&section=header&text=📊%20Stats&fontColor=00ff00&fontSize=26&fontAlign=8&fontAlignY=55)
 
 [![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bcneal666&theme=chartreuse_dark)](https://github.com/bcneal666)
