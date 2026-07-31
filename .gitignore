@@ -1,0 +1,15 @@
+# Windows / Git Bash noise
+*.stackdump
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Node (if tooling ever lands here)
+node_modules/
+npm-debug.log*
