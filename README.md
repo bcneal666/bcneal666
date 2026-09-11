@@ -15,18 +15,31 @@
     padded prefix has no effect — flush-left reads as a terminal prompt anyway.
     Trade-off accepted: headings are images, so there is no heading anchor. The alt
     text carries the semantics — never ship one of these without a descriptive alt.
-  Two third-party quirks that look like bugs but are not — do not "fix" them:
-    1. The matrix rain banner has a hard-coded 6s opacity loop on its outer <g>
-       (values="0;0;1;1;0;0"): the rain shows ~4.9s, fades, leaves the bar empty
-       for ~1s, repeats. The <rect> background sits OUTSIDE that <g>, so the dark
-       ground never disappears. repeat=false freezes it INVISIBLE — never use it.
-       background= needs 8-digit RGBA (0D1117ff); lines= only seeds the effect and
-       duration= only changes fall speed, neither touches the 6s loop.
-    2. The C# badge label in the tech-stack cards must be DOUBLE-encoded as
-       C%2523. A plain C%23 renders "404: badge not found".
-       Also: fontFamily= is quoted as a family name, so the generic keyword
-       'monospace' is invalid CSS there — pass a real face like Courier New.
+  HARD RULE — a 200 is NOT a verification. Every SVG source here must parse as
+    well-formed XML before it ships. A browser loading an SVG through <img> parses
+    it STRICTLY: one malformed token and the whole image silently fails to render,
+    with no console error and no clue in the response headers. Learned the hard
+    way: readme-svg-typing-generator's matrix endpoint emits a BARE, unescaped
+    ampersand among its rain glyphs (same byte offset on every request, at every
+    width and height), so it returned a perfectly healthy 200 and rendered as a
+    broken-image icon for everyone. Check with an XML parser, not with curl -w.
+  tech-stack cards fail in TWO different ways, and only one of them is loud:
+    - an unknown SHIELDS slug renders "404: badge not found" (loud). This is why
+      the C# label must be DOUBLE-encoded as C%2523; a plain C%23 404s.
+    - a slug shields knows but SIMPLE-ICONS does not renders a perfectly normal
+      badge with NO LOGO (silent). simple-icons dropped `csharp` — it 404s on
+      cdn.simpleicons.org — so C# now borrows the `dotnet` mark. `shadcn` is the
+      same trap; the real slug is `shadcnui`.
+    So verify a card by counting: the number of href="data:image/svg" occurrences
+    must equal the number of badges. Checking only for "404: badge not found"
+    misses every silent case.
+    Also: fontFamily= is quoted as a family name, so the generic keyword
+    'monospace' is invalid CSS there — pass a real face like Courier New.
+  matrix.svg is ours, committed to this repo, precisely so no third party can
+    break it again. Edit the file itself; the rules live in its header comment.
   Deliberately NOT used:
+    readme-svg-typing-generator's matrix animation (invalid XML — see above; its
+      other nine animations are well-formed, but this profile no longer needs them),
     github-readme-activity-graph (402 paywall on every host),
     github-readme-stats (503), github-profile-trophy (402), wakatime card (503),
     metrics.lecoq.io hosted instance (500), repobeats (500),
@@ -41,7 +54,7 @@
 
 <img alt="Better call Neal" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&duration=1200&pause=1000&color=00FF00&background=0D1117&center=true&vCenter=true&repeat=false&width=830&height=80&lines=Better+call+Neal">
 
-<img alt="AI x Web3 full-stack engineer — Next.js, TypeScript, Solidity — status: available for hire" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1400&pause=600&color=00FF00&background=0D1117&center=true&vCenter=true&multiline=true&repeat=false&width=830&height=140&lines=%3E+AI+x+Web3+full-stack+engineer;%3E+Next.js+%2F+TypeScript+%2F+Solidity;%3E+status%3A+available+for+hire">
+<img alt="AI x Web3 full-stack engineer — Next.js, TypeScript, Solidity — status: available for hire" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=450&pause=120&color=00FF00&background=0D1117&center=false&vCenter=true&multiline=true&repeat=false&width=620&height=140&lines=%3E+AI+x+Web3+full-stack+engineer;%3E+Next.js+%2F+TypeScript+%2F+Solidity;%3E+status%3A+available+for+hire">
 
 <p>
 <a href="https://github.com/bcneal666"><img alt="Follow bcneal666 on GitHub" src="https://img.shields.io/github/followers/bcneal666?style=for-the-badge&label=FOLLOW&logo=github&logoColor=00FF00&labelColor=0D1117&color=0D1117"></a>
@@ -49,7 +62,7 @@
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=bcneal666&label=VIEWS&color=0d1117&style=for-the-badge">
 </p>
 
-<img alt="Matrix digital rain" src="https://readme-svg-typing-generator.vercel.app/api?lines=bcneal666&animation=matrix&color=00ff00&background=0D1117ff&size=18&width=830&height=100" />
+<img alt="Matrix digital rain" src="https://raw.githubusercontent.com/bcneal666/bcneal666/main/matrix.svg" />
 
 </div>
 
@@ -76,7 +89,7 @@
 
 <img alt="cat stack.txt" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=99999999&color=00FF00&background=0D1117&center=false&vCenter=true&repeat=false&width=830&height=44&lines=%3E_%20cat%20stack.txt">
 
-<img alt="build — TypeScript, JavaScript, Python, Solidity, C#, Next.js, React, Tailwind CSS, Node.js, Express" src="https://github-readme-tech-stack.vercel.app/api/cards?title=build&lineCount=2&titleAlign=left&align=left&width=830&showBorder=true&borderRadius=6&fontFamily=Courier%20New&bg=%230D1117&border=%2300FF00&badge=%23161B22&titleColor=%2300FF00&line1=typescript,TypeScript,00ff00;javascript,JavaScript,00ff00;python,Python,00ff00;solidity,Solidity,00ff00;csharp,C%2523,00ff00&line2=nextdotjs,Next.js,00ff00;react,React,00ff00;tailwindcss,Tailwind,00ff00;nodedotjs,Node.js,00ff00;express,Express,00ff00" />
+<img alt="build — TypeScript, JavaScript, Python, Solidity, C#, Next.js, React, Tailwind CSS, shadcn/ui, Node.js, Hono, Express" src="https://github-readme-tech-stack.vercel.app/api/cards?title=build&lineCount=3&titleAlign=left&align=left&width=830&showBorder=true&borderRadius=6&fontFamily=Courier%20New&bg=%230D1117&border=%2300FF00&badge=%23161B22&titleColor=%2300FF00&line1=typescript,TypeScript,00ff00;javascript,JavaScript,00ff00;python,Python,00ff00;solidity,Solidity,00ff00;dotnet,C%2523,00ff00&line2=nextdotjs,Next.js,00ff00;react,React,00ff00;tailwindcss,Tailwind,00ff00;shadcnui,shadcn%2Fui,00ff00&line3=nodedotjs,Node.js,00ff00;hono,Hono,00ff00;express,Express,00ff00" />
 
 <img alt="infra — MongoDB, MySQL, SQLite, Nginx, Vercel, Cloudflare, IPFS" src="https://github-readme-tech-stack.vercel.app/api/cards?title=infra&lineCount=2&titleAlign=left&align=left&width=830&showBorder=true&borderRadius=6&fontFamily=Courier%20New&bg=%230D1117&border=%2300FF00&badge=%23161B22&titleColor=%2300FF00&line1=mongodb,MongoDB,00ff00;mysql,MySQL,00ff00;sqlite,SQLite,00ff00&line2=nginx,Nginx,00ff00;vercel,Vercel,00ff00;cloudflare,Cloudflare,00ff00;ipfs,IPFS,00ff00" />
 

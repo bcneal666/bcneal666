@@ -1,0 +1,403 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 110" width="830" height="110" role="img" aria-label="Matrix digital rain">
+<!--
+  Matrix digital rain — hand-rolled, committed to this repo on purpose.
+  The third-party generator this replaced emitted a bare '&' among its rain
+  glyphs, which makes the SVG invalid XML; a browser loading an SVG through
+  <img> parses it strictly, so the whole image silently failed to render.
+  Rules for editing this file:
+    - the glyph pool must never contain &, < or >
+    - keep the #0D1117 rect: #00FF00 is invisible on a light theme
+    - no global opacity loop; the columns just fall, forever
+-->
+<rect width="830" height="110" fill="#0D1117"/>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="4.1s" begin="-3.7s" repeatCount="indefinite"/>
+<text x="6" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">T</text>
+<text x="6" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">J</text>
+<text x="6" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">Y</text>
+<text x="6" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">0</text>
+<text x="6" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">=</text>
+<text x="6" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">=</text>
+<text x="6" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">!</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="4.99s" begin="-0.61s" repeatCount="indefinite"/>
+<text x="27" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">9</text>
+<text x="27" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">Q</text>
+<text x="27" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">|</text>
+<text x="27" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">V</text>
+<text x="27" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">+</text>
+<text x="27" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">F</text>
+<text x="27" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">1</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="2.9s" begin="-0.78s" repeatCount="indefinite"/>
+<text x="48" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">K</text>
+<text x="48" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">\</text>
+<text x="48" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">9</text>
+<text x="48" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">A</text>
+<text x="48" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">H</text>
+<text x="48" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">|</text>
+<text x="48" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">.</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="4.4s" begin="-1.62s" repeatCount="indefinite"/>
+<text x="69" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">J</text>
+<text x="69" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">Z</text>
+<text x="69" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">5</text>
+<text x="69" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">K</text>
+<text x="69" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">D</text>
+<text x="69" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">.</text>
+<text x="69" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">2</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="2.96s" begin="-2.67s" repeatCount="indefinite"/>
+<text x="90" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">Z</text>
+<text x="90" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">0</text>
+<text x="90" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">3</text>
+<text x="90" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">%</text>
+<text x="90" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">0</text>
+<text x="90" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">B</text>
+<text x="90" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">2</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="3.8s" begin="-0.71s" repeatCount="indefinite"/>
+<text x="111" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">V</text>
+<text x="111" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">X</text>
+<text x="111" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">D</text>
+<text x="111" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">U</text>
+<text x="111" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">2</text>
+<text x="111" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">T</text>
+<text x="111" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">T</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="3.78s" begin="-0.96s" repeatCount="indefinite"/>
+<text x="132" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">W</text>
+<text x="132" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">@</text>
+<text x="132" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">7</text>
+<text x="132" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">#</text>
+<text x="132" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">S</text>
+<text x="132" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">:</text>
+<text x="132" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">G</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="3.97s" begin="-3.68s" repeatCount="indefinite"/>
+<text x="153" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">F</text>
+<text x="153" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">5</text>
+<text x="153" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">T</text>
+<text x="153" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">?</text>
+<text x="153" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">#</text>
+<text x="153" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">:</text>
+<text x="153" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">!</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="3.06s" begin="-2.99s" repeatCount="indefinite"/>
+<text x="174" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">Q</text>
+<text x="174" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">W</text>
+<text x="174" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">V</text>
+<text x="174" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">L</text>
+<text x="174" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">Y</text>
+<text x="174" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">V</text>
+<text x="174" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">U</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="4.81s" begin="-1.52s" repeatCount="indefinite"/>
+<text x="195" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">A</text>
+<text x="195" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">L</text>
+<text x="195" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">D</text>
+<text x="195" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">:</text>
+<text x="195" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">N</text>
+<text x="195" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">7</text>
+<text x="195" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">Z</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="5.86s" begin="-1.02s" repeatCount="indefinite"/>
+<text x="216" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">+</text>
+<text x="216" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">H</text>
+<text x="216" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">V</text>
+<text x="216" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">J</text>
+<text x="216" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">Q</text>
+<text x="216" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">D</text>
+<text x="216" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">M</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="4.15s" begin="-2.26s" repeatCount="indefinite"/>
+<text x="237" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">.</text>
+<text x="237" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">Y</text>
+<text x="237" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">*</text>
+<text x="237" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">#</text>
+<text x="237" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">J</text>
+<text x="237" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">D</text>
+<text x="237" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">!</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="2.54s" begin="-2.27s" repeatCount="indefinite"/>
+<text x="258" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">D</text>
+<text x="258" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">X</text>
+<text x="258" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">|</text>
+<text x="258" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">4</text>
+<text x="258" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">6</text>
+<text x="258" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">T</text>
+<text x="258" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">S</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="5.99s" begin="-4.52s" repeatCount="indefinite"/>
+<text x="279" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">7</text>
+<text x="279" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">H</text>
+<text x="279" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">/</text>
+<text x="279" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">2</text>
+<text x="279" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">2</text>
+<text x="279" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">G</text>
+<text x="279" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">G</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="3.79s" begin="-2.23s" repeatCount="indefinite"/>
+<text x="300" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">G</text>
+<text x="300" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">U</text>
+<text x="300" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">\</text>
+<text x="300" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">V</text>
+<text x="300" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">.</text>
+<text x="300" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">1</text>
+<text x="300" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">X</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="2.82s" begin="-2.24s" repeatCount="indefinite"/>
+<text x="321" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">6</text>
+<text x="321" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">B</text>
+<text x="321" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">V</text>
+<text x="321" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">M</text>
+<text x="321" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">Q</text>
+<text x="321" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">$</text>
+<text x="321" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">@</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="4.97s" begin="-3.3s" repeatCount="indefinite"/>
+<text x="342" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">J</text>
+<text x="342" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">/</text>
+<text x="342" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">#</text>
+<text x="342" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">.</text>
+<text x="342" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">S</text>
+<text x="342" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">?</text>
+<text x="342" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">S</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="3.93s" begin="-2.04s" repeatCount="indefinite"/>
+<text x="363" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">B</text>
+<text x="363" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">=</text>
+<text x="363" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">8</text>
+<text x="363" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">R</text>
+<text x="363" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">J</text>
+<text x="363" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">4</text>
+<text x="363" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">6</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="2.95s" begin="-0.86s" repeatCount="indefinite"/>
+<text x="384" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">0</text>
+<text x="384" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">H</text>
+<text x="384" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">W</text>
+<text x="384" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">|</text>
+<text x="384" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">X</text>
+<text x="384" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">E</text>
+<text x="384" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">L</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="2.6s" begin="-1.85s" repeatCount="indefinite"/>
+<text x="405" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">K</text>
+<text x="405" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">T</text>
+<text x="405" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">.</text>
+<text x="405" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">/</text>
+<text x="405" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">N</text>
+<text x="405" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">F</text>
+<text x="405" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">G</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="5.09s" begin="-0.55s" repeatCount="indefinite"/>
+<text x="426" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">9</text>
+<text x="426" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">U</text>
+<text x="426" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">-</text>
+<text x="426" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">T</text>
+<text x="426" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">S</text>
+<text x="426" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">3</text>
+<text x="426" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">P</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="2.79s" begin="-0.81s" repeatCount="indefinite"/>
+<text x="447" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">7</text>
+<text x="447" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">Z</text>
+<text x="447" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">W</text>
+<text x="447" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">\</text>
+<text x="447" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">U</text>
+<text x="447" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">D</text>
+<text x="447" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">A</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="2.51s" begin="-0.58s" repeatCount="indefinite"/>
+<text x="468" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">8</text>
+<text x="468" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">C</text>
+<text x="468" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">7</text>
+<text x="468" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">@</text>
+<text x="468" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">L</text>
+<text x="468" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">P</text>
+<text x="468" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">@</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="5.19s" begin="-0.58s" repeatCount="indefinite"/>
+<text x="489" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">X</text>
+<text x="489" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">#</text>
+<text x="489" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">P</text>
+<text x="489" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">5</text>
+<text x="489" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">-</text>
+<text x="489" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">W</text>
+<text x="489" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">%</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="4.09s" begin="-3.57s" repeatCount="indefinite"/>
+<text x="510" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">T</text>
+<text x="510" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">T</text>
+<text x="510" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">B</text>
+<text x="510" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">W</text>
+<text x="510" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">%</text>
+<text x="510" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">X</text>
+<text x="510" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">A</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="3.4s" begin="-2.65s" repeatCount="indefinite"/>
+<text x="531" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">N</text>
+<text x="531" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">N</text>
+<text x="531" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">|</text>
+<text x="531" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">E</text>
+<text x="531" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">E</text>
+<text x="531" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">8</text>
+<text x="531" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">7</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="4.48s" begin="-2.99s" repeatCount="indefinite"/>
+<text x="552" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">C</text>
+<text x="552" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">P</text>
+<text x="552" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">H</text>
+<text x="552" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">Q</text>
+<text x="552" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">H</text>
+<text x="552" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">6</text>
+<text x="552" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">:</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="3.67s" begin="-1.06s" repeatCount="indefinite"/>
+<text x="573" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">W</text>
+<text x="573" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">|</text>
+<text x="573" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">T</text>
+<text x="573" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">1</text>
+<text x="573" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">E</text>
+<text x="573" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">U</text>
+<text x="573" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">M</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="5.32s" begin="-2.66s" repeatCount="indefinite"/>
+<text x="594" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">W</text>
+<text x="594" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">$</text>
+<text x="594" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">/</text>
+<text x="594" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">*</text>
+<text x="594" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">D</text>
+<text x="594" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">%</text>
+<text x="594" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">W</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="3.24s" begin="-0.12s" repeatCount="indefinite"/>
+<text x="615" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">F</text>
+<text x="615" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">*</text>
+<text x="615" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">N</text>
+<text x="615" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">F</text>
+<text x="615" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">$</text>
+<text x="615" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">$</text>
+<text x="615" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">Z</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="4.85s" begin="-1.47s" repeatCount="indefinite"/>
+<text x="636" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">\</text>
+<text x="636" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">|</text>
+<text x="636" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">*</text>
+<text x="636" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">%</text>
+<text x="636" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">T</text>
+<text x="636" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">Q</text>
+<text x="636" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">0</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="4.58s" begin="-3.51s" repeatCount="indefinite"/>
+<text x="657" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">#</text>
+<text x="657" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">#</text>
+<text x="657" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">@</text>
+<text x="657" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">N</text>
+<text x="657" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">Y</text>
+<text x="657" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">?</text>
+<text x="657" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">K</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="5.0s" begin="-4.14s" repeatCount="indefinite"/>
+<text x="678" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">-</text>
+<text x="678" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">.</text>
+<text x="678" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">H</text>
+<text x="678" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">4</text>
+<text x="678" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">V</text>
+<text x="678" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">0</text>
+<text x="678" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">|</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="4.0s" begin="-3.65s" repeatCount="indefinite"/>
+<text x="699" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">*</text>
+<text x="699" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">W</text>
+<text x="699" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">E</text>
+<text x="699" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">/</text>
+<text x="699" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">T</text>
+<text x="699" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">/</text>
+<text x="699" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">H</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="2.56s" begin="-2.49s" repeatCount="indefinite"/>
+<text x="720" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">F</text>
+<text x="720" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">F</text>
+<text x="720" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">H</text>
+<text x="720" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">B</text>
+<text x="720" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">S</text>
+<text x="720" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">#</text>
+<text x="720" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">5</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="3.62s" begin="-2.36s" repeatCount="indefinite"/>
+<text x="741" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">X</text>
+<text x="741" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">J</text>
+<text x="741" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">?</text>
+<text x="741" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">D</text>
+<text x="741" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">5</text>
+<text x="741" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">9</text>
+<text x="741" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">H</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="5.74s" begin="-0.81s" repeatCount="indefinite"/>
+<text x="762" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">N</text>
+<text x="762" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">K</text>
+<text x="762" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">C</text>
+<text x="762" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">7</text>
+<text x="762" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">Q</text>
+<text x="762" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">1</text>
+<text x="762" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">_</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="4.39s" begin="-2.38s" repeatCount="indefinite"/>
+<text x="783" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">K</text>
+<text x="783" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">1</text>
+<text x="783" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">Y</text>
+<text x="783" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">5</text>
+<text x="783" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">5</text>
+<text x="783" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">#</text>
+<text x="783" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">A</text>
+</g>
+<g transform="translate(0,-112)">
+<animateTransform attributeName="transform" type="translate" values="0,-112;0,110" dur="4.8s" begin="-4.25s" repeatCount="indefinite"/>
+<text x="804" y="112" fill="#CCFFCC" opacity="1" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">5</text>
+<text x="804" y="96" fill="#00FF00" opacity="0.86" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">2</text>
+<text x="804" y="80" fill="#00FF00" opacity="0.72" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">@</text>
+<text x="804" y="64" fill="#00FF00" opacity="0.58" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">%</text>
+<text x="804" y="48" fill="#00FF00" opacity="0.44" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">2</text>
+<text x="804" y="32" fill="#00FF00" opacity="0.30" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">T</text>
+<text x="804" y="16" fill="#00FF00" opacity="0.16" font-size="16" font-family="'Courier New',Courier,monospace" font-weight="bold">Q</text>
+</g>
+</svg>
