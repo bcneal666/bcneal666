@@ -73,6 +73,11 @@
 - 🧠 **Currently working on** AI agents, LLM apps and MCP tooling.
 - 💼 **Available for freelance and contract work** — reach me through GitHub.
 
+<!-- SECTION HIDDEN — Selected Work, temporarily commented out. Kept verbatim so it
+     can be restored by deleting this wrapper's two markers. NOTE: HTML comments do
+     not nest, so the "Live demos" comment below is deliberately left OUTSIDE this
+     block — pulling it in would end this comment early and dump the rest as text.
+
 <img alt="ls ~/selected-work" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=99999999&color=00FF00&background=0D1117&center=false&vCenter=true&repeat=false&width=830&height=44&lines=%3E_%20ls%20~%2Fselected-work">
 
 - **[.claude](https://github.com/bcneal666/.claude)** — My Claude Code agent setup: custom skills, slash commands, hooks and a custom statusline. &nbsp;`Claude Code`&nbsp;`AI agents`&nbsp;`Python`&nbsp;`Bash`
@@ -81,6 +86,8 @@
 - **[tailwind-template](https://github.com/bcneal666/tailwind-template)** — Production Next.js starter I reuse on client work: i18n routing via middleware, Redux Toolkit, NextUI, Framer Motion. &nbsp;`Next.js`&nbsp;`i18next`&nbsp;`Redux`&nbsp;`TypeScript`
 - **[hardhat-project](https://github.com/bcneal666/hardhat-project)** — Solidity lab: fallback, mapping, library and phishing-pattern contracts, each with mocha tests and Hardhat Ignition deploy modules. &nbsp;`Solidity`&nbsp;`Hardhat`&nbsp;`Testing`
 - **[NFT-MintUI](https://github.com/bcneal666/NFT-MintUI)** — Mint UI template for NFT drops: wallet connect, supply state, mint flow. &nbsp;`React`&nbsp;`TypeScript`&nbsp;`Web3`
+
+     END SECTION HIDDEN -->
 
 <!-- Live demos are intentionally omitted: every Vercel deployment behind the old
      homepage fields is gone — the custom-app host no longer resolves at all.
