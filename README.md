@@ -15,9 +15,23 @@
     padded prefix has no effect — flush-left reads as a terminal prompt anyway.
     Trade-off accepted: headings are images, so there is no heading anchor. The alt
     text carries the semantics — never ship one of these without a descriptive alt.
+  Two third-party quirks that look like bugs but are not — do not "fix" them:
+    1. The matrix rain banner has a hard-coded 6s opacity loop on its outer <g>
+       (values="0;0;1;1;0;0"): the rain shows ~4.9s, fades, leaves the bar empty
+       for ~1s, repeats. The <rect> background sits OUTSIDE that <g>, so the dark
+       ground never disappears. repeat=false freezes it INVISIBLE — never use it.
+       background= needs 8-digit RGBA (0D1117ff); lines= only seeds the effect and
+       duration= only changes fall speed, neither touches the 6s loop.
+    2. The C# badge label in the tech-stack cards must be DOUBLE-encoded as
+       C%2523. A plain C%23 renders "404: badge not found".
+       Also: fontFamily= is quoted as a family name, so the generic keyword
+       'monospace' is invalid CSS there — pass a real face like Courier New.
   Deliberately NOT used:
     github-readme-activity-graph (402 paywall on every host),
-    github-readme-stats (503),
+    github-readme-stats (503), github-profile-trophy (402), wakatime card (503),
+    metrics.lecoq.io hosted instance (500), repobeats (500),
+    ghchart.rshah.org (takes a custom hex, but hard-codes #EEEEEE for empty cells —
+      a glaring pale grid on a dark theme, which breaks the colour rule above),
     capsule-render (emits <text> without inlining the font — pixel type falls back
       to the reader's system sans),
     plain markdown headings (cannot be coloured).
@@ -34,6 +48,8 @@
 <a href="https://github.com/bcneal666?tab=repositories"><img alt="All repositories" src="https://img.shields.io/badge/ALL_REPOS-0D1117?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=0D1117"></a>
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=bcneal666&label=VIEWS&color=0d1117&style=for-the-badge">
 </p>
+
+<img alt="Matrix digital rain" src="https://readme-svg-typing-generator.vercel.app/api?lines=bcneal666&animation=matrix&color=00ff00&background=0D1117ff&size=18&width=830&height=100" />
 
 </div>
 
@@ -60,13 +76,9 @@
 
 <img alt="cat stack.txt" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=99999999&color=00FF00&background=0D1117&center=false&vCenter=true&repeat=false&width=830&height=44&lines=%3E_%20cat%20stack.txt">
 
-**Build**
+<img alt="build — TypeScript, JavaScript, Python, Solidity, C#, Next.js, React, Tailwind CSS, Node.js, Express" src="https://github-readme-tech-stack.vercel.app/api/cards?title=build&lineCount=2&titleAlign=left&align=left&width=830&showBorder=true&borderRadius=6&fontFamily=Courier%20New&bg=%230D1117&border=%2300FF00&badge=%23161B22&titleColor=%2300FF00&line1=typescript,TypeScript,00ff00;javascript,JavaScript,00ff00;python,Python,00ff00;solidity,Solidity,00ff00;csharp,C%2523,00ff00&line2=nextdotjs,Next.js,00ff00;react,React,00ff00;tailwindcss,Tailwind,00ff00;nodedotjs,Node.js,00ff00;express,Express,00ff00" />
 
-<img alt="TypeScript, JavaScript, Python, Solidity, C#, Next.js, React, Tailwind CSS, Node.js, Express" src="https://skillicons.dev/icons?i=ts,js,py,solidity,cs,nextjs,react,tailwind,nodejs,express&perline=10&theme=dark" />
-
-**Data &amp; infra**
-
-<img alt="MongoDB, MySQL, SQLite, Nginx, Vercel, Cloudflare, IPFS" src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,nginx,vercel,cloudflare,ipfs&perline=7&theme=dark" />
+<img alt="infra — MongoDB, MySQL, SQLite, Nginx, Vercel, Cloudflare, IPFS" src="https://github-readme-tech-stack.vercel.app/api/cards?title=infra&lineCount=2&titleAlign=left&align=left&width=830&showBorder=true&borderRadius=6&fontFamily=Courier%20New&bg=%230D1117&border=%2300FF00&badge=%23161B22&titleColor=%2300FF00&line1=mongodb,MongoDB,00ff00;mysql,MySQL,00ff00;sqlite,SQLite,00ff00&line2=nginx,Nginx,00ff00;vercel,Vercel,00ff00;cloudflare,Cloudflare,00ff00;ipfs,IPFS,00ff00" />
 
 <img alt="git log --stat" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=99999999&color=00FF00&background=0D1117&center=false&vCenter=true&repeat=false&width=830&height=44&lines=%3E_%20git%20log%20--stat">
 
