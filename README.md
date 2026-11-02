@@ -41,6 +41,8 @@
     readme-svg-typing-generator's matrix animation (invalid XML — see above; its
       other nine animations are well-formed, but this profile no longer needs them),
     github-readme-activity-graph (402 paywall on every host),
+    github-profile-summary-cards + streak-stats (all repos are private — language
+      cards count public repos only, streak needs private contributions exposed),
     github-readme-stats (503), github-profile-trophy (402), wakatime card (503),
     metrics.lecoq.io hosted instance (500), repobeats (500),
     ghchart.rshah.org (takes a custom hex, but hard-codes #EEEEEE for empty cells —
@@ -99,13 +101,6 @@
 <img alt="build — TypeScript, JavaScript, Python, Solidity, C#, Next.js, React, Tailwind CSS, shadcn/ui, Node.js, Hono, Express" src="https://github-readme-tech-stack.vercel.app/api/cards?title=build&lineCount=3&titleAlign=left&align=left&width=830&showBorder=true&borderRadius=6&fontFamily=Courier%20New&bg=%230D1117&border=%2300FF00&badge=%23161B22&titleColor=%2300FF00&line1=typescript,TypeScript,00ff00;javascript,JavaScript,00ff00;python,Python,00ff00;solidity,Solidity,00ff00;dotnet,C%2523,00ff00&line2=nextdotjs,Next.js,00ff00;react,React,00ff00;tailwindcss,Tailwind,00ff00;shadcnui,shadcn%2Fui,00ff00&line3=nodedotjs,Node.js,00ff00;hono,Hono,00ff00;express,Express,00ff00" />
 
 <img alt="infra — MongoDB, MySQL, SQLite, Nginx, Vercel, Cloudflare, IPFS" src="https://github-readme-tech-stack.vercel.app/api/cards?title=infra&lineCount=2&titleAlign=left&align=left&width=830&showBorder=true&borderRadius=6&fontFamily=Courier%20New&bg=%230D1117&border=%2300FF00&badge=%23161B22&titleColor=%2300FF00&line1=mongodb,MongoDB,00ff00;mysql,MySQL,00ff00;sqlite,SQLite,00ff00&line2=nginx,Nginx,00ff00;vercel,Vercel,00ff00;cloudflare,Cloudflare,00ff00;ipfs,IPFS,00ff00" />
-
-<img alt="git log --stat" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=99999999&color=00FF00&background=0D1117&center=false&vCenter=true&repeat=false&width=830&height=44&lines=%3E_%20git%20log%20--stat">
-
-<img alt="Top languages by repository for bcneal666" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bcneal666&theme=chartreuse_dark" width="340" />
-<img alt="Most used language by commit for bcneal666" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bcneal666&theme=chartreuse_dark" width="340" />
-
-<img alt="Contribution streak statistics for bcneal666" src="https://streak-stats.demolab.com?user=bcneal666&background=0D1117&border=00FF00&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&sideNums=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&dates=00FF00" width="500" />
 
 <img alt="./snake.sh" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=99999999&color=00FF00&background=0D1117&center=false&vCenter=true&repeat=false&width=830&height=44&lines=%3E_%20.%2Fsnake.sh">
 
