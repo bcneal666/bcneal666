@@ -37,6 +37,14 @@
     'monospace' is invalid CSS there — pass a real face like Courier New.
   matrix.svg is ours, committed to this repo, precisely so no third party can
     break it again. Edit the file itself; the rules live in its header comment.
+  assets/h-*.svg are the static ">_" section headings, downloaded once from
+    readme-typing-svg (duration=1, so they never animate anyway) and committed for
+    the same reason as matrix.svg. The font is already inlined, so they are
+    self-contained. Regenerate by re-downloading with a new `lines=` value, then
+    run them through an XML parser. Only the two animated hero lines still hit
+    the live service.
+  Contact is the issue form in .github/ISSUE_TEMPLATE/contact.yml — GitHub has no
+    DMs and the profile deliberately exposes no email.
   Deliberately NOT used:
     readme-svg-typing-generator's matrix animation (invalid XML — see above; its
       other nine animations are well-formed, but this profile no longer needs them),
@@ -56,10 +64,11 @@
 
 <img alt="Better call Neal" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&duration=1200&pause=1000&color=00FF00&background=0D1117&center=true&vCenter=true&repeat=false&width=830&height=80&lines=Better+call+Neal">
 
-<img alt="AI x Web3 full-stack engineer — Next.js, TypeScript, Solidity — status: available for hire" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=450&pause=120&color=00FF00&background=0D1117&center=false&vCenter=true&multiline=true&repeat=false&width=620&height=140&lines=%3E+AI+x+Web3+full-stack+engineer;%3E+Next.js+%2F+TypeScript+%2F+Solidity;%3E+status%3A+available+for+hire">
+<img alt="AI agents / LLM apps engineer — TypeScript, Next.js, MCP — status: available for hire" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=450&pause=120&color=00FF00&background=0D1117&center=false&vCenter=true&multiline=true&repeat=false&width=620&height=140&lines=%3E+AI+agents+%2F+LLM+apps+engineer;%3E+TypeScript+%2F+Next.js+%2F+MCP;%3E+status%3A+available+for+hire">
 
 <p>
 <a href="https://github.com/bcneal666"><img alt="Follow bcneal666 on GitHub" src="https://img.shields.io/github/followers/bcneal666?style=for-the-badge&label=FOLLOW&logo=github&logoColor=00FF00&labelColor=0D1117&color=0D1117"></a>
+<a href="https://github.com/bcneal666/bcneal666/issues/new?template=contact.yml"><img alt="Hire me — open a project inquiry" src="https://img.shields.io/badge/HIRE_ME-0D1117?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=0D1117"></a>
 <a href="https://github.com/bcneal666?tab=repositories"><img alt="All repositories" src="https://img.shields.io/badge/ALL_REPOS-0D1117?style=for-the-badge&logo=github&logoColor=00FF00&labelColor=0D1117"></a>
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=bcneal666&label=VIEWS&color=0d1117&style=for-the-badge">
 </p>
@@ -68,47 +77,32 @@
 
 </div>
 
-<img alt="whoami" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=99999999&color=00FF00&background=0D1117&center=false&vCenter=true&repeat=false&width=830&height=44&lines=%3E_%20whoami">
+<img alt="whoami" src="https://raw.githubusercontent.com/bcneal666/bcneal666/main/assets/h-whoami.svg">
 
-- 🤖 **AI × Web3 full-stack engineer.** I ship product-facing web apps and the LLM / on-chain plumbing behind them.
-- 🧰 **What I build:** Next.js + TypeScript front-ends, Node/MongoDB back-ends, Solidity contracts, and LLM / agent integrations.
-- 🧠 **Currently working on** AI agents, LLM apps and MCP tooling.
-- 💼 **Available for freelance and contract work** — reach me through GitHub.
+- 🤖 **AI agents / LLM apps engineer.** I build agent and LLM products end to end — the model plumbing and the web app in front of it.
+- 🧰 **What I build:** LLM agents, MCP tools and chat-bot backends, with Next.js + TypeScript front-ends and Node/MongoDB back-ends.
+- 🧠 **Currently working on** LINE AI bots, agent tooling and a Claude Code workflow (see below).
+- ⛓️ **Web3 on the side:** Solidity contracts with Hardhat and mocha tests.
+- 💼 **Available for freelance and contract work** — [open a project inquiry](https://github.com/bcneal666/bcneal666/issues/new?template=contact.yml).
 
-<!-- SECTION HIDDEN — Selected Work, temporarily commented out. Kept verbatim so it
-     can be restored by deleting this wrapper's two markers. NOTE: HTML comments do
-     not nest, so the "Live demos" comment below is deliberately left OUTSIDE this
-     block — pulling it in would end this comment early and dump the rest as text.
+<img alt="ls ~/selected-work" src="https://raw.githubusercontent.com/bcneal666/bcneal666/main/assets/h-selected-work.svg">
 
-<img alt="ls ~/selected-work" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=99999999&color=00FF00&background=0D1117&center=false&vCenter=true&repeat=false&width=830&height=44&lines=%3E_%20ls%20~%2Fselected-work">
+- **[.claude](https://github.com/bcneal666/.claude)** — My global Claude Code setup: custom skills, slash commands, hooks and a statusline. &nbsp;`Claude Code`&nbsp;`AI agents`&nbsp;`Hooks`&nbsp;`Skills`
+- **[nvim](https://github.com/bcneal666/nvim)** — LazyVim-based Neovim config with blink.cmp, the Cyberdream theme and a full web-dev LSP stack, synced across Windows and a Linux VPS. &nbsp;`Neovim`&nbsp;`Lua`&nbsp;`LSP`
 
-- **[.claude](https://github.com/bcneal666/.claude)** — My Claude Code agent setup: custom skills, slash commands, hooks and a custom statusline. &nbsp;`Claude Code`&nbsp;`AI agents`&nbsp;`Python`&nbsp;`Bash`
-- **[custom-app](https://github.com/bcneal666/custom-app)** — Full-stack Next.js 15 app: App Router, React 19, Tailwind v4, shadcn/ui components, MongoDB-backed API routes. &nbsp;`Next.js`&nbsp;`TypeScript`&nbsp;`MongoDB`&nbsp;`Tailwind`
-- **[keystatic-blog](https://github.com/bcneal666/keystatic-blog)** — Git-based CMS blog: Next.js + Keystatic + Markdoc, content committed straight into the repo, light/dark theming. &nbsp;`Next.js`&nbsp;`TypeScript`&nbsp;`Keystatic`
-- **[tailwind-template](https://github.com/bcneal666/tailwind-template)** — Production Next.js starter I reuse on client work: i18n routing via middleware, Redux Toolkit, NextUI, Framer Motion. &nbsp;`Next.js`&nbsp;`i18next`&nbsp;`Redux`&nbsp;`TypeScript`
-- **[hardhat-project](https://github.com/bcneal666/hardhat-project)** — Solidity lab: fallback, mapping, library and phishing-pattern contracts, each with mocha tests and Hardhat Ignition deploy modules. &nbsp;`Solidity`&nbsp;`Hardhat`&nbsp;`Testing`
-- **[NFT-MintUI](https://github.com/bcneal666/NFT-MintUI)** — Mint UI template for NFT drops: wallet connect, supply state, mint flow. &nbsp;`React`&nbsp;`TypeScript`&nbsp;`Web3`
-
-     END SECTION HIDDEN -->
-
-<!-- Live demos are intentionally omitted: every Vercel deployment behind the old
-     homepage fields is gone — the custom-app host no longer resolves at all.
-     Once a deployment is healthy, add it back inline, e.g.
-     **[custom-app](...)** · [live ↗](https://custom-app-peach.vercel.app) — ... -->
-
-<img alt="cat stack.txt" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=99999999&color=00FF00&background=0D1117&center=false&vCenter=true&repeat=false&width=830&height=44&lines=%3E_%20cat%20stack.txt">
+<img alt="cat stack.txt" src="https://raw.githubusercontent.com/bcneal666/bcneal666/main/assets/h-stack.svg">
 
 <img alt="build — TypeScript, JavaScript, Python, Solidity, C#, Next.js, React, Tailwind CSS, shadcn/ui, Node.js, Hono, Express" src="https://github-readme-tech-stack.vercel.app/api/cards?title=build&lineCount=3&titleAlign=left&align=left&width=830&showBorder=true&borderRadius=6&fontFamily=Courier%20New&bg=%230D1117&border=%2300FF00&badge=%23161B22&titleColor=%2300FF00&line1=typescript,TypeScript,00ff00;javascript,JavaScript,00ff00;python,Python,00ff00;solidity,Solidity,00ff00;dotnet,C%2523,00ff00&line2=nextdotjs,Next.js,00ff00;react,React,00ff00;tailwindcss,Tailwind,00ff00;shadcnui,shadcn%2Fui,00ff00&line3=nodedotjs,Node.js,00ff00;hono,Hono,00ff00;express,Express,00ff00" />
 
 <img alt="infra — MongoDB, MySQL, SQLite, Nginx, Vercel, Cloudflare, IPFS" src="https://github-readme-tech-stack.vercel.app/api/cards?title=infra&lineCount=2&titleAlign=left&align=left&width=830&showBorder=true&borderRadius=6&fontFamily=Courier%20New&bg=%230D1117&border=%2300FF00&badge=%23161B22&titleColor=%2300FF00&line1=mongodb,MongoDB,00ff00;mysql,MySQL,00ff00;sqlite,SQLite,00ff00&line2=nginx,Nginx,00ff00;vercel,Vercel,00ff00;cloudflare,Cloudflare,00ff00;ipfs,IPFS,00ff00" />
 
-<img alt="./snake.sh" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=99999999&color=00FF00&background=0D1117&center=false&vCenter=true&repeat=false&width=830&height=44&lines=%3E_%20.%2Fsnake.sh">
+<img alt="./snake.sh" src="https://raw.githubusercontent.com/bcneal666/bcneal666/main/assets/h-snake.svg">
 
 <!-- Regenerated daily by .github/workflows/snake.yml, published to the output branch. -->
 <img alt="Snake game animation eating the bcneal666 contribution graph" src="https://raw.githubusercontent.com/bcneal666/bcneal666/output/snake.svg" />
 
 <div align="center">
 
-<img alt="connection closed — thanks for scrolling" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1&pause=99999999&color=00FF00&background=0D1117&center=true&vCenter=true&repeat=false&width=830&height=40&lines=%3E_%20connection%20closed.%20thanks%20for%20scrolling.">
+<img alt="connection closed — thanks for scrolling" src="https://raw.githubusercontent.com/bcneal666/bcneal666/main/assets/h-footer.svg">
 
 </div>
