@@ -1,0 +1,42 @@
+name: Hire me / project inquiry
+description: Tell me about your project. I read every one.
+title: "[inquiry] "
+labels: ["inquiry"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Issues on this repo are public. Do not paste secrets, credentials or anything confidential.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What do you need?
+      options:
+        - AI agent / LLM app
+        - MCP tooling or integration
+        - Full-stack web app (Next.js / TypeScript)
+        - Smart contract (Solidity)
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Project in a few sentences
+      description: What are you building, and what should be done?
+    validations:
+      required: true
+  - type: input
+    id: timeline
+    attributes:
+      label: Timeline
+      placeholder: e.g. MVP in 4 weeks
+  - type: input
+    id: budget
+    attributes:
+      label: Budget range (optional)
+  - type: input
+    id: contact
+    attributes:
+      label: How should I reach you back?
+      description: Leave this empty to just get a reply in this thread.
